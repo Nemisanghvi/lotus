@@ -1,0 +1,128 @@
+
+ @media screen and (max-width:1300px){
+ .banner-w { position: absolute; top: 11%; left: 0;transform: translate(0% , 0%); right: 0; } 
+/* */
+.banner-text h2 { font-size: 35px; } 
+.logo { top: 25px; } 
+/* thank page */
+ .thank-text h1::after { width: 34%; }    
+ }
+
+@media screen and (max-width:1200px){
+ .banner-up.thank img { min-height: 84vh; object-fit: cover; } 
+.form-group2 { width: 30%; } 
+.banner-up img.w-100.lbdesktop { height: 350px; object-fit: cover; object-position: left; } 
+/* thank page */
+.thank-text h1 { font-size: 95px; } 
+.info-up{
+   background-image: url(../images/formbg-ipad.jpg);
+   background-position: center;
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+}
+ }
+@media screen and (max-width:1023px) { h2 { font-size: 35px; } 
+ ul.translator li a { font-size: 22px; } 
+ .info-up { padding: 60px 0px; } 
+ .form-group2 { width: 40%; } 
+ .logo{top: 23px;}
+
+
+ /* thank page */
+ .banner-w.thank { position: absolute; left: 0; top: 32%; margin: 0 auto; transform: translate(0%, 0%); right: 0; } 
+ }
+@media screen and (max-width:767px) { img.w-100.lbmobile { display: block; } 
+ img.w-100.lbdesktop { display: none; } 
+ h2 { font-size: 27px; } 
+ .banner-text2 h2 { color: #082c27; } 
+.banner-w { top: 14%; } 
+/* */
+ .lang-box { padding-right: 29px; } 
+ .banner-text { padding: 0px 94px; display: none; } 
+ .banner-text2 { display: block; } 
+ .banner-text2 h2 {font-size: 55px;
+    line-height: 58px;font-weight: bold;font-family: 'GEHili-Book'   ;} 
+ ul.translator li a { font-size: 19px; } 
+ .header-up { padding: 38px 0px; } 
+ .info-up { padding: 80px 0px; } 
+ .fill-text h3 { font-size: 33px; line-height: 44px; } 
+ .fill-text:after { bottom: -9px; width: 78%; } 
+ .form-box { width: 75%; padding: 55px 0px 0px 0px; } 
+ label.key { font-size: 21px; } 
+ input.form-control.enter2 { font-size: 21px; } 
+ .inverse-triangle2 { background-size: 92%; } 
+ input.form-control.enter { height: 40px; } 
+ .social-icons { padding: 18px 0px; } 
+ .copy-text { padding-top: 0px; } 
+ ul.social li { padding: 0px 18px; } 
+ .form-group2 { width: 46%; } 
+ .fill-text.mobile { display: block; } 
+ .fill-text { display: none; } 
+ .logo{top: 30px;}
+ /* thank page */
+ .thank-text h1 { font-size: 77px; } 
+ .thank-text h1::after { bottom: -19px; } 
+ .thank-text h4 { padding-top: 36px; font-size: 20px; } 
+ .thanks-logo { top: -12px; } 
+ .banner-w.thank { top: 36%; } 
+ .info-up{background-image: url(../images/formbg-mobile.jpg);
+   background-size: 100% 100%;
+   background-position: center;}
+ }
+@media screen and (max-width:640px)
+ {
+ .header-up { padding: 40px 0px; } 
+ .banner-w { top: 16%; } 
+ .banner-text2 h2{font-size: 38px;
+    line-height: 40px;}
+ }
+@media screen and (max-width:479px){
+ .header-up { padding: 24px 0px; } 
+ .banner-text { padding: 0px 13px; } 
+ .banner-w { top: 12%; } 
+ .fill-text h3 { font-size: 26px; line-height: 35px; } 
+ .info-up { padding: 30px 0px; } 
+ .form-group { padding-bottom: 13px; } 
+ input.form-control.enter { height: 32px; } 
+ .form-group2 { width: 45%; } 
+ button.form-control.enter2 { font-size: 22px; } 
+ label.key { padding-bottom: 8px; } 
+ .info-up { padding: 40px 0px 50px 0px; } 
+ input.form-control.enter2 { font-size: 20px; } 
+ .form-box { width: 90%; } 
+ .fill-text { padding: 0px 4px; } 
+ .lang-box { padding-right: 10px; } 
+ .inverse-triangle2 { background-size: 76%; } 
+ ul.translator li a { font-size: 16px; } 
+ .banner-text2 h2 { font-size: 29px; line-height: 31px; } 
+ /* thank page */
+ .header-up.thank { padding: 31px 0px; } 
+ .thanks-logo { width: 26%; border: 14px solid #082c28; top: -12px; } 
+ .thank-text h1 { font-size: 57px; } 
+ .thank-text h1::after { bottom: -13px; } 
+ .thank-text h4 { padding-top: 26px; font-size: 14px; } 
+ .banner-w { top: 17%; } 
+ .inverse-triangle2{top: 13px;}
+ .banner-text2 h2 { font-size: 26px; } 
+ .banner-w.thank { top: 40%; } 
+ .logo { top: 28px; width: 26%; border: 16px solid #082c27; } 
+ }
+@media screen and (max-width:375px){
+ .form-group2 { width: 47%; } 
+.header-up { padding: 22px 0px; } 
+.banner-w { top: 18%; } 
+.logo { width: 29%; } 
+
+/* Thanks */
+.header-up.thank { padding: 24px 0px; } 
+.thank-text h1 { font-size: 50px; } 
+ }
+
+
+@media screen and (max-width:320px){
+ .form-group2 { width: 58%; } 
+ .inverse-triangle2{top: 14px;}
+
+ /* thank page */
+ .banner-w.thank { top: 35%; } 
+ }
